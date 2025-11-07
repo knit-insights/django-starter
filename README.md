@@ -107,7 +107,7 @@ python manage.py runserver
 
 - Ensure you have **Python 3.6** or higher installed.
 - If you encounter any issues, please check your Python and Poetry installations.
-- For any questions or issues, feel free to contact us at [rachel@goknit.com](mailto:rachel@goknit.com).
+- For any questions or issues, feel free to contact us at [rachel.weems@goknit.com](mailto:rachel.weems@goknit.com).
 
 ---
 
